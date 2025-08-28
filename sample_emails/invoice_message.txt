@@ -1,0 +1,12 @@
+Subject: Invoice #12345
+From: billing@vendor-promo.com
+
+Hello,
+
+Attached is invoice #12345 for the services rendered last month. Please let us
+know if you have any questions. Payment is due by the end of the month.
+
+Thank you for your business.
+
+Regards,
+Vendor Billing Team

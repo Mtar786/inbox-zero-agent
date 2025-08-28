@@ -1,0 +1,10 @@
+Subject: Lunch meeting next Wednesday
+From: alice@example.com
+
+Hi Bob,
+
+Can we schedule a lunch meeting next Wednesday at noon? I’d like to discuss
+project updates and upcoming deadlines.
+
+Cheers,
+Alice

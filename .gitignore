@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment directories
+env/
+venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Editors and OS files
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Python project outputs
+results.json
+processed_emails.json
+
+# IDE settings
+.vscode/
+.idea/
