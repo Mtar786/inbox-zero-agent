@@ -1,5 +1,6 @@
 # Inbox Zero Agent
 
+
 This project contains a simple email‑management **agent** written in Python that
 helps you apply the *Inbox Zero* philosophy to your day‑to‑day messages.  The
 Inbox Zero concept was popularized by Merlin Mann in 2006 and encourages you
